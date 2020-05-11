@@ -1,0 +1,14 @@
+html, body {
+    height: 100%;
+    width: 100%;
+    font-family: sans-serif;
+}
+
+div {
+    background-color: gray;
+    color: whitesmoke;
+    border-radius: 10px;
+    width: 50%;
+    text-align: center;
+    margin: auto
+}
